@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+@import "_extension_import.scss";
+
+
+.chara {
+    width: 32px;
+    height: 32px;
+    background-repeat: no-repeat;
+    position: fixed;
+    left: 0;
+    top: 0;
+
+		&.als {
+			background-image: image-url("als.png");
+		}
+}

@@ -1,0 +1,13 @@
+@charset "utf-8";
+.controller {
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+.controller li {
+  display: inline-block;
+  background: #666;
+  color: #fff;
+  width: 2em;
+  line-height: 2em;
+}

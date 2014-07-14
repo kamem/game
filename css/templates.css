@@ -1,0 +1,12 @@
+@charset "utf-8";
+.chara {
+  width: 32px;
+  height: 32px;
+  background-repeat: no-repeat;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+.chara.als {
+  background-image: url('../img/als.png?1405344626');
+}
